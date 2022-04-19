@@ -8,65 +8,93 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Test_Authentication
 build_property.RootNamespace = Test_Authentication
-build_property.ProjectDir = C:\Git\Blazor-test-authenticion\Test-Authentication\Test-Authentication\
+build_property.ProjectDir = C:\Git\Blazor-test-authenticion\Test-Authentication\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Git\Blazor-test-authenticion\Test-Authentication\Test-Authentication
+build_property.MSBuildProjectDirectory = C:\Git\Blazor-test-authenticion\Test-Authentication
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Git/Blazor-test-authenticion/Test-Authentication/Test-Authentication/App.razor]
+[C:/Git/Blazor-test-authenticion/Test-Authentication/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/Blazor-test-authenticion/Test-Authentication/Test-Authentication/Pages/Counter.razor]
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/Blazor-test-authenticion/Test-Authentication/Test-Authentication/Pages/FetchData.razor]
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/Blazor-test-authenticion/Test-Authentication/Test-Authentication/Pages/Index.razor]
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/Blazor-test-authenticion/Test-Authentication/Test-Authentication/Shared/LoginDisplay.razor]
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Shared/LoginDisplay.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luRGlzcGxheS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/Blazor-test-authenticion/Test-Authentication/Test-Authentication/Shared/SurveyPrompt.razor]
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/Blazor-test-authenticion/Test-Authentication/Test-Authentication/_Imports.razor]
+[C:/Git/Blazor-test-authenticion/Test-Authentication/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/Blazor-test-authenticion/Test-Authentication/Test-Authentication/Shared/MainLayout.razor]
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-5m4qytar5d
 
-[C:/Git/Blazor-test-authenticion/Test-Authentication/Test-Authentication/Shared/NavMenu.razor]
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ildfrdob3d
 
-[C:/Git/Blazor-test-authenticion/Test-Authentication/Test-Authentication/Areas/Identity/Pages/Account/LogOut.cshtml]
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Areas/Identity/Pages/Account/LogOut.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dPdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/Blazor-test-authenticion/Test-Authentication/Test-Authentication/Areas/Identity/Pages/Shared/_LoginPartial.cshtml]
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Areas/Identity/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/Blazor-test-authenticion/Test-Authentication/Test-Authentication/Pages/Error.cshtml]
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/Blazor-test-authenticion/Test-Authentication/Test-Authentication/Pages/_Host.cshtml]
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Git/Blazor-test-authenticion/Test-Authentication/Test-Authentication/Pages/_Layout.cshtml]
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Pages/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xvZ2luUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Git/Blazor-test-authenticion/Test-Authentication/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope =

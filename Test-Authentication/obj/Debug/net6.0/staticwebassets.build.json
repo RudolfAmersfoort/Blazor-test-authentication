@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xqAANR7pL5xebqTC02C9ejeiqG6GgxBxeFCxLD4fSKI=",
+  "Hash": "okxYH4SMCY3H2vEQPuGFRZsEX5lkZ8ppRaOY7yybYO4=",
   "Source": "Test-Authentication",
   "BasePath": "_content/Test-Authentication",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Test-Authentication\\wwwroot",
       "Source": "Test-Authentication",
-      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\",
       "BasePath": "_content/Test-Authentication",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Test-Authentication.styles.css",
+      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Test-Authentication.styles.css",
       "SourceId": "Test-Authentication",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Test-Authentication",
       "RelativePath": "Test-Authentication.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Test-Authentication.styles.css"
+      "OriginalItemSpec": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Test-Authentication.styles.css"
     },
     {
-      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Test-Authentication.bundle.scp.css",
+      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Test-Authentication.bundle.scp.css",
       "SourceId": "Test-Authentication",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Test-Authentication",
       "RelativePath": "Test-Authentication.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Test-Authentication.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Test-Authentication.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "Test-Authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\",
       "BasePath": "_content/Test-Authentication",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Test-Authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\",
       "BasePath": "_content/Test-Authentication",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "Test-Authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\",
       "BasePath": "_content/Test-Authentication",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "Test-Authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\",
       "BasePath": "_content/Test-Authentication",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "Test-Authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\",
       "BasePath": "_content/Test-Authentication",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "Test-Authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\",
       "BasePath": "_content/Test-Authentication",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "Test-Authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\",
       "BasePath": "_content/Test-Authentication",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "Test-Authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\",
       "BasePath": "_content/Test-Authentication",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "Test-Authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\",
       "BasePath": "_content/Test-Authentication",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "Test-Authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\",
       "BasePath": "_content/Test-Authentication",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "Test-Authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\",
       "BasePath": "_content/Test-Authentication",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\css\\site.css",
       "SourceId": "Test-Authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\",
       "BasePath": "_content/Test-Authentication",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\favicon.ico",
       "SourceId": "Test-Authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\wwwroot\\",
+      "ContentRoot": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\wwwroot\\",
       "BasePath": "_content/Test-Authentication",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

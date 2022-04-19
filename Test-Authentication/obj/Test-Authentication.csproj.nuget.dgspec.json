@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\Test-Authentication.csproj": {}
+    "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication.csproj": {}
   },
   "projects": {
-    "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\Test-Authentication.csproj": {
+    "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\Test-Authentication.csproj",
+        "projectUniqueName": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication.csproj",
         "projectName": "Test-Authentication",
-        "projectPath": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\Test-Authentication.csproj",
+        "projectPath": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication.csproj",
         "packagesPath": "C:\\Users\\r.amersfoort\\.nuget\\packages\\",
-        "outputPath": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\Test-Authentication\\obj\\",
+        "outputPath": "C:\\Git\\Blazor-test-authenticion\\Test-Authentication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -64,6 +64,14 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[6.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
             }
           },
           "imports": [
